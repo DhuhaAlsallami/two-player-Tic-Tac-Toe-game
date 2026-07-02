@@ -36,15 +36,15 @@ py tic_tac_toe.py
 
 ### Start Screen
 
-![Start Screen](images/img_start.png)
+<img src="images/img_start.png" width="300">
 
 ### Gameplay
 
-![Gameplay](images/img_mid.png)
+<img src="images/img_mid.png" width="300">
 
 ### Winner
 
-![Winner](images/img_end.png)
+<img src="images/img_end.png" width="300">
 
 ## Skills Demonstrated
 
