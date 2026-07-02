@@ -36,7 +36,7 @@ py tic_tac_toe.py
 
 ### Start Screen
 
-<img src="C:\Users\dhuha\Documents\python_projects\images\img_start.png" width="700">
+<img src="images/img_start.png" width="700">
 
 ### Gameplay
 
